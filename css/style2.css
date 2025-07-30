@@ -1,0 +1,37 @@
+body {
+    background: #DDFCDD;
+    color: #000000;
+}
+
+h1 {
+    text-align: left;
+    font-size: 18pt;
+    font-style: normal;
+    color: blue;
+}
+
+.font-red {
+    color: red;
+}
+
+#font-green {
+    color: green;
+}
+
+.big {
+    font-size: 60px;
+}
+
+h3 {
+    text-align: left;
+    font-size: 14pt;
+    font-style: italic;
+    color: magenta;
+}
+
+p {
+    text-align: center;
+    font-style: normal;
+    font-family: Cordia New;
+    font-size: 14pt;
+}
